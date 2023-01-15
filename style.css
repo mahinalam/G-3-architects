@@ -33,11 +33,11 @@ margin-right: 240px;
 
 }
 .architects{
-    margin: 0 auto;
+    margin-left: 500px;
 }
 .architects .btn{
     margin-bottom: 50px;
-   margin-left: 850px;
+   margin-left: 400px;
 }
 .architects .img{
     margin: 0 500px;}
@@ -47,6 +47,12 @@ margin-right: 240px;
 .ari-title{
     font-size: 64px;
     color: #131313;
+    margin-left: 250px;
+}
+.ari-title1{
+    font-size: 64px;
+    color: #131313;
+    margin-left: 365px;
 }
 .para p{
     font-size: 16px;
@@ -64,6 +70,7 @@ margin-right: 240px;
 .meeting{
     display: flex;
     margin-bottom: 130px;
+    margin-left: 150px;
 }
 .img-1img{
     width: 1440px;
@@ -102,7 +109,7 @@ main{
     background-color: white;
 }
 .features{
-  margin-left: 73px;
+  margin-left: 150px;
   margin-right: 301px;
   margin-top: 287px;
 }
@@ -206,6 +213,7 @@ height: 177px;
     display: flex;
     margin-bottom: 180px;
     justify-content: space-evenly;
+    margin-top: 100px;
 }
 .number .icon-title,.para{
     /* margin-left: 10px; */
@@ -245,18 +253,20 @@ justify-content: space-between;
 margin-bottom: 130px;
 margin-left: 250px;
 }
-.end{
-    width: 1440px;
-    height: 100px;
-    align-items: center;
-    background: #FFF4E7;
-    margin-left: 240px;
-    margin-bottom: 216px;
-    margin-right: 240px;
+.paras{
+    margin-bottom: 0;
+}
+.our-spon{
+    margin-bottom: 101px;
+}
+.Paras{
+    text-align: center;
+    margin-right: 600px;
 
 }
-.end p{
-    font-size: 20px;
-    text-align: center;
-    margin-top: 50px;
+.PAras{
+    margin-left: 120px;
+}
+.whole-features{
+    /* margin-left: 200px; */
 }
