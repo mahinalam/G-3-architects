@@ -1,0 +1,262 @@
+*{
+    box-sizing: border-box; 
+}
+.container{
+    justify-content: center;
+}
+header{
+    
+background: rgba(255, 144, 14, 0.1);
+}
+    
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-menu h3{
+    font-size: 45px;
+    color: #131313;
+    margin-left: 228px;
+}
+.nav-menu ul li{
+    font-size: 18px;
+    color: #424242;
+    list-style: none;
+    margin-left: 30px;
+
+}
+.nav-menu ul{
+display: flex;
+margin-right: 240px;
+
+}
+.architects{
+    margin: 0 auto;
+}
+.architects .btn{
+    margin-bottom: 50px;
+   margin-left: 850px;
+}
+.architects .img{
+    margin: 0 500px;}
+.img-1{
+    margin-left:250px;
+}
+.ari-title{
+    font-size: 64px;
+    color: #131313;
+}
+.para p{
+    font-size: 16px;
+    color: #727272;
+}
+.btn{
+    font-size: 20px;
+    width: 180px;
+    height: 64px;
+    color: white;
+    background-color: #FF900E;
+    border: none;
+    margin-top: 32px;
+}
+.meeting{
+    display: flex;
+    margin-bottom: 130px;
+}
+.img-1img{
+    width: 1440px;
+    height: 700px;
+}
+.img-1{
+    margin-bottom: 45px;
+}
+main{
+    background-color: white;
+}
+.images img {
+    width: 342px;
+    height : 342px;
+}
+.text{
+    font-size: 45px;
+    color: #727272;
+}
+.text span{
+    color: #131313;
+}
+.text .f-1{
+    color: #FF900E;
+}
+.features .btn{
+    margin-top: 32px;
+}
+.images .images-one{
+    margin-bottom: 25px;
+}
+.images .images-two{
+    margin-bottom: 25px;
+}
+.whole-features{
+    background-color: white;
+}
+.features{
+  margin-left: 73px;
+  margin-right: 301px;
+  margin-top: 287px;
+}
+.images{
+    margin-left: 312px;
+    margin-top: 75px;
+    margin-right: 75px;
+    margin-left: 100px;
+
+}
+.text .btn{
+    margin-top: 20px;
+}
+article .enjoy{
+    font-size: 45px;
+    color: #131313;
+    margin-bottom: 24px;
+}
+.para{
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 30px;
+}
+.desktop h3{
+    font-size:20px;
+    color: #131313;
+    margin-top:20px;
+}
+.all-features{
+    display: flex;
+    flex-direction: column;
+    margin-left: 240px;
+    width: 586px;
+    height: 982px;
+    row-gap: 20px;
+    /* background-color: lightgrey; */
+}
+.versions .version{
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: white;
+}
+.img img{
+    width: 800px;
+    height: 1059px;
+    margin-left: 54px;
+}
+article{
+    display: flex;
+    margin-bottom: 130px;
+}
+.love .enjoy{
+  padding: 0 21px;
+    border-left: 8px solid orange;
+}
+section .enjoy{
+    font-size: 45px;
+    color: #131313;
+    margin-bottom: 24px;
+}
+section .para{
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 100px;
+}
+.some-facts{
+    margin-left: 240px;
+}
+.number{
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    height: 242px;
+    width: 242px;
+    justify-content: center;
+    align-items: center;
+}
+.number img{
+    width :36.76px;
+    height: 45.22px;
+    margin-bottom: 10px;
+}
+.number .icon-title{
+    font-size: 45px;
+    color: #131313;
+}
+.number .para{
+    font-size: 16px;
+    color: #727272;
+}
+/* .number{
+width: 170px;
+height: 177px;
+} */
+.numbers > .number{
+    /* padding-left: 37px;
+    padding-right: 37px;
+ padding-right: 46px;
+ padding-bottom: 60px; */
+}
+.numbers{
+    display: flex;
+    margin-bottom: 180px;
+    justify-content: space-evenly;
+}
+.number .icon-title,.para{
+    /* margin-left: 10px; */
+}
+.number .icon-des{
+    color: #727272;
+    font-size: 20px;
+}
+.number{
+   
+}
+.our-spon h2{
+    font-size: 45px;
+    color: #131313;
+    margin-bottom: 24px;
+}
+.para-2{
+    font-size: 16px;
+    color: #727272;
+    margin-bottom: 101px;
+}
+.our-spon{
+    width: 80%;
+   margin: 0 700px;
+    justify-content: center;
+}
+
+.tec-ziant img{
+    width: 177px;
+    height: 50px;
+}
+.tec-ziant{
+    width: 70%;
+    display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 130px;
+margin-left: 250px;
+}
+.end{
+    width: 1440px;
+    height: 100px;
+    align-items: center;
+    background: #FFF4E7;
+    margin-left: 240px;
+    margin-bottom: 216px;
+    margin-right: 240px;
+
+}
+.end p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
