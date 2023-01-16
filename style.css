@@ -37,7 +37,7 @@ margin-right: 240px;
 }
 .architects .btn{
     margin-bottom: 50px;
-   margin-left: 400px;
+   margin-left: 250px;
 }
 .architects .img{
     margin: 0 500px;}
@@ -47,12 +47,12 @@ margin-right: 240px;
 .ari-title{
     font-size: 64px;
     color: #131313;
-    margin-left: 250px;
+    margin-left: 40px;
 }
 .ari-title1{
     font-size: 64px;
     color: #131313;
-    margin-left: 365px;
+    margin-left: 150px;
 }
 .para p{
     font-size: 16px;
@@ -69,8 +69,9 @@ margin-right: 240px;
 }
 .meeting{
     display: flex;
-    margin-bottom: 130px;
-    margin-left: 150px;
+    /* margin-bottom: 130px;*/
+    margin-left: 130px;
+  
 }
 .img-1img{
     width: 1440px;
@@ -78,6 +79,7 @@ margin-right: 240px;
 }
 .img-1{
     margin-bottom: 45px;
+    
 }
 main{
     background-color: white;
@@ -261,12 +263,22 @@ margin-left: 250px;
 }
 .Paras{
     text-align: center;
-    margin-right: 600px;
+    margin-right: 400px;
 
 }
 .PAras{
-    margin-left: 120px;
+    margin-left: 400pxx;
 }
 .whole-features{
     /* margin-left: 200px; */
+}
+.end{
+    width: 1440px;
+    height: 100px;
+    text-align: center;
+    padding: 40px 410px;
+    background: #FFF4E7;
+    font-size: 20px;
+    color: #424242;
+    font-weight: 400;
 }
